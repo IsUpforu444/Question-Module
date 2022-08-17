@@ -14,11 +14,11 @@ Certify your candidates with the help of Think Exam. Admin can create certificat
 
 Once the test is created please follow the below steps to assign certificate for any particular test:
 
- a) GOTO create certificate and click on YES
- b) Choose the pre- defined template as per your requirement
- c) Edit the template and fill all the mandatory fields as per the mentioned instructions
- d) Add digital signature of the authority and date of issuing the certificate
- e) Click on SAVE button
+ a) GOTO create certificate and click on YES/
+ b) Choose the pre- defined template as per your requirement/
+ c) Edit the template and fill all the mandatory fields as per the mentioned instructions/
+ d) Add digital signature of the authority and date of issuing the certificate/
+ e) Click on SAVE button/
     Publish the test 
     
     
