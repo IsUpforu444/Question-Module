@@ -1,32 +1,70 @@
-# Question-Module  
-Online platform, that provide very easy way to give exam online at any place This is Best Online Quiz Maker to Create Quizzes and Tests with Ease. 
+# Getting Started with Create React App
 
-## Features 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1) Six sample templates are provided to optimize and customize the candidates’ exposure on the online examination. The sample templates have been designed using in-depth analysis of different layouts and formats. Preview facilitated before making the final selection on the assessment portal. Add-on tools like the timer display, calculator, the differentiated test outlook for the selected, viewed and not attempted questions is provided to enhance the user experience. The administrator can create test & quiz using different user-interfaces and settings as can allow the use of calculators in the mathematical section. 
-2) Create new test and quiz by defining name, adding images, describing the marking scheme, time limits, adding and importing questions, etc. Amend the required settings that include the movement, restrictions, mandate fields, and more. Assign the created test and quiz to the targeted candidate or group. State and explain the guidelines that should be followed by the candidates to solve the questions. It includes providing clarity to the marking scheme for correct, incorrect, partially correct attempts, sections, questions, etc. Mark certain tips and tricks for simple evaluation of the problem as the use of calculators is permissible to simplify the mathematical calculation. 
-3) Stay one-step ahead, to redefine your examination experience. Raise the difficulty, controlled atmosphere, precise scoring schemes of the created assessments. Define where to provide restriction of selection, movement, depute timelines, etc. Shuffle in-between sections, answer options, questions within subjects, to avoid cheating in the created tests. Restrict or liberate the back and forward moments and can define mandatory fields in a test. 
-4) The user can create groups of the candidates preparing for similar courses. Easily assign the created test or product to a group constituting multiple candidates. Mark test using active links on mail, web, codes, etc 
+## Available Scripts
 
-5) Create Certificate
-Create Customized Certificates
-Certify your candidates with the help of Think Exam. Admin can create certificates from pre- defined template available in the panel in which admin can add their organization’s logo, certificate title, description, date, candidate’s name, marks achieved and signature.
+In the project directory, you can run:
 
-Once the test is created please follow the below steps to assign certificate for any particular test:
+### `npm start`
 
- a) GOTO create certificate and click on YES\
- b) Choose the pre- defined template as per your requirement\
- c) Edit the template and fill all the mandatory fields as per the mentioned instructions\
- d) Add digital signature of the authority and date of issuing the certificate\
- e) Click on SAVE button\
-    Publish the test 
-    
-    
-## Active links
-Share link using email - The test link is sent via mail using the email address of the candidate. The admin can input one email address at a time for selective sharing or can assign the test to multiple candidates using the import of an excel file.Link test on an external website -An embedded code is shared that will be linked on an external website to access the test.
-```code
-Access Code - Special codes are generated that will provide the accessibility to the test. The candidate has to provide the access code in order to appear in the test. If the code is verified then the test will get started. 
-```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Assignment to group or product
-Direct allocation of a test or product to a group of candidates. Considering an example – a chemistry test can be assigned to the candidates preparing for medical and non-medical entrance examinations.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
