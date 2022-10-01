@@ -1,1 +1,33 @@
+body {
+  font-family: 'Signika Negative', sans-serif;
+}
 
+.NavbarItems {
+  height: 80px;
+  width: 100%;
+}
+
+.nav-menu2 {
+  background: white;
+  backdrop-filter: blur(0px);
+  border-radius: 13px;
+  padding: 80px 0 30px 0;
+  margin-top: 0;
+  transition: all 0.4s ease-in-out;
+}
+
+.mytext {
+  
+  color: #50a153;
+  background-image: -webkit-linear-gradient(0deg, #50a153 22%, #ffffff 42%, #a061ed 73%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  /* text-fill-color: transparent; */
+  -webkit-text-fill-color: transparent;
+
+} 
+
+.transform-img{
+  transform: rotate(4deg); 
+  border: 3px; 
+}
